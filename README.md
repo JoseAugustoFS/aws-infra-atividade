@@ -26,3 +26,13 @@ Criado grupo de segurança HTTP com regra de entrada HTTP com qualquer origem:
 Criado grupo de segurança para o banco de dados com duas regras de entrada para o PostgreSQL, a principal com origem no grupo web (criado acima) e a de testes com origem no grupo dev (criado para a primeira atividade):
 ![print13](AWS%20Prints/AWS_PRINT_13.png)
 ![print14](AWS%20Prints/AWS_PRINT_14.png)
+
+Criado banco de dados RDS com o modo de criação padrão, engine PostgreSQL 17.2-R1, modelo gratuito, nome da instância "AWS_DB, autogerenciado com a senha padrão usada em aula, armazenamento de 20 GiB do tipo gp3, Performance Insights desativado, nome do banco de dados "aws_db", backup desativado e grupo de segurança "aws_db" criado anteriormente:
+![print15](AWS%20Prints/AWS_PRINT_15.png)
+![print16](AWS%20Prints/AWS_PRINT_16.png)
+![print17](AWS%20Prints/AWS_PRINT_17.png)
+![print18](AWS%20Prints/AWS_PRINT_18.png)
+![print19](AWS%20Prints/AWS_PRINT_19.png)
+![print20](AWS%20Prints/AWS_PRINT_20.png)
+![print21](AWS%20Prints/AWS_PRINT_21.png)
+![print22](AWS%20Prints/AWS_PRINT_22.png)
